@@ -1,2 +1,2 @@
-# showboat
-showboat init
+# vikingo
+Future site for Vikingo Estudio
